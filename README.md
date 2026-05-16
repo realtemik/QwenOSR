@@ -22,7 +22,7 @@ ollama pull qwen2.5:3b
 ollama serve
 ```
 
-## Установка
+## Установка (актуально только для MSYS2 MINGW64)
 
 ```bash
 cd system_audio_qwen_chat
