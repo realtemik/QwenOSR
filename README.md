@@ -27,7 +27,7 @@ ollama serve
 ## Установка (актуально только для MSYS2 MINGW64)
 
 ```bash
-cd system_audio_qwen_chat
+cd QwenOSR
 python -m venv .venv
 source ./.venv/Scripts/activate
 pip install -r requirements.txt
