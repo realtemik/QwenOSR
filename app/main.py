@@ -413,7 +413,7 @@ class MainWindow(QMainWindow):
         self.sidebar_content_widgets = []
         self.sidebar_toggle_button = None
 
-        self.setWindowTitle("Qwen Voice Chat")
+        self.setWindowTitle("QwenOSR1")
         self.setWindowIcon(QIcon(str(ICON_PATH)))
         self.resize(1100, 760)
         self.setMinimumSize(900, 600)
